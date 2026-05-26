@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eleveone.com.br/sitemap.xml
